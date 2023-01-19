@@ -1,0 +1,45 @@
+.header{
+    text-align: center;
+}
+.flipkart{
+    margin-left: -930px;
+    margin-bottom: -10px;
+}
+.input{
+    width: 500px;
+    padding: 3px;
+}
+
+.body{
+    display:inline-block;
+    padding-top: 80px;
+}
+ 
+ .login{
+    padding-top: 80px;
+    margin-left: 450px;
+ }
+ 
+ .grocery{
+    margin: 500px;
+    background-color: aqua;
+ }
+ .bg{
+    background-color: #e1dce6;
+ }
+ .bg1{
+    background-image: url(https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/GroceryRBOBackgroundImg_25d3d0.jpg);
+ }
+ .grocery1{
+    margin-top: -120px;
+    margin-left: 130px;
+ }
+ .grocery2{
+    display: inline;
+ }
+ .card{
+    margin-left: 505px;
+ }
+ .cross{
+   padding-left: 420px;
+ }

@@ -4,8 +4,15 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+//link bootstrap
+import '../node_modules/bootstrap/dist/css/bootstrap.css';
+import '../node_modules/mdbootstrap/css/mdb.css';
+
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
+
 root.render(
+  
   <React.StrictMode>
     <App />
   </React.StrictMode>
